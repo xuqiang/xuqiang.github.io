@@ -1,0 +1,52 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+## Welcome!  
+
+I am a Ph.D. student at the School of Management, University of Science and Technology of China.  
+
+I am an empirical modeler ([Google Scholar Citations](https://scholar.google.com/citations?user=43woAHgAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0000-1249-1300)). My research focuses on quantitative marketing, causal inference, and large language models (LLMs), with a particular interest in digital economics, such as livestream shopping and social media content.  
+
+My work has been published in leading marketing journals, such as *European Journal of Marketing*.  
+
+You can find my CV [here](https://xuqiangacademic.github.io/files/CV_XuQiang.pdf).
+
+# 🔬 Research Interests
+- **Substantive:** Digital Economics, Digital Platforms, Creator Economy  
+- **Methodological:** Structural Models, Machine Learning, Causal Inference  
+
+# 📝 Publications 
+Qiang Xu, Yilong Liang; Impacts of product presentation duration on livestream efficiency: evidence from the largest Chinese livestream platform. European Journal of Marketing 2025; [https://doi.org/10.1108/EJM-11-2023-0863](https://doi.org/10.1108/EJM-11-2023-0863) (AJG/ABS3; ABDC A*; JCR Q1)
+
+
+# 🎖 Honors and Awards
+- *Academic Frontier Award*, 2025 International Conference of Marketing Science and
+Innovation
+
+# 📖 Educations
+- **Ph.D. Candidate**, Management Science and Engineering, University of Science and Technology of China, 2023  
+- **B.S.**, Industrial Engineering, Liaoning Technical University, 2017
+
+# 💼 Academic Employment
+- **Research Assistant**, Department of Management and Marketing, The Hong Kong Polytechnic University  
+  *22 April 2024 – 31 December 2024*  
+  Supervisor: Prof. Dai YAO  
+
+- **Research Assistant**, HKU Business School, The University of Hong Kong  
+  *20 January 2025 – 31 December 2025*  
+  Supervisor: Prof. Junhong CHU  
