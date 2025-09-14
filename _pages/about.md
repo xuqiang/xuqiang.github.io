@@ -32,6 +32,7 @@ You can find my CV [here](https://xuqiang.github.io/files/CV_XuQiang.pdf).
 
 # 📝 Publications 
 Qiang Xu, Yilong Liang; Impacts of product presentation duration on livestream efficiency: evidence from the largest Chinese livestream platform. European Journal of Marketing 2025; [https://doi.org/10.1108/EJM-11-2023-0863](https://doi.org/10.1108/EJM-11-2023-0863) (AJG/ABS3; ABDC A*; JCR Q1)
+
 -*[Media coverage]*(https://mp.weixin.qq.com/s/7YSBkoparxdSQB2AKeBgqQ): Featured on the WeChat public account of the Laboratory of Computational Social Science and State Governance, Tsinghua University (2025)
 
 # 🎖 Honors and Awards
