@@ -24,7 +24,7 @@ I am an empirical modeler ([Google Scholar Citations](https://scholar.google.com
 
 My work has been published in leading marketing journals, such as *European Journal of Marketing*.  
 
-You can find my CV [here](https://xuqiangacademic.github.io/files/CV_XuQiang.pdf).
+You can find my CV [here](https://xuqiang.github.io/files/CV_XuQiang.pdf).
 
 # 🔬 Research Interests
 - **Substantive:** Digital Economics, Digital Platforms, Creator Economy  
