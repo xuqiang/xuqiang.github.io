@@ -44,8 +44,8 @@ Innovation
 # 💼 Academic Employment
 - **Research Assistant**, Department of Management and Marketing, The Hong Kong Polytechnic University  
   *22 April 2024 – 31 December 2024*  
-  Supervisor: Prof. Dai YAO  
+  Supervisor: Prof. [Dai YAO](https://mounttai.github.io/)  
 
 - **Research Assistant**, HKU Business School, The University of Hong Kong  
   *20 January 2025 – 31 December 2025*  
-  Supervisor: Prof. Junhong CHU  
+  Supervisor: Prof. [Junhong CHU](https://www.chujunhong.com/)  
