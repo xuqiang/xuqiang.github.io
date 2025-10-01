@@ -50,7 +50,7 @@ Innovation
   *22 April 2024 – 31 December 2024*  
   Supervisor: Prof. [Dai YAO](https://mounttai.github.io/)  
 
-## Ad hoc reviewer for journals
+# Ad hoc reviewer for journals
 - Marketing Science 
 - Journal of Marketing Research 
 - International Journal of Research in Marketing 
