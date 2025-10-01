@@ -49,7 +49,7 @@ You can find my CV [here](https://xuqiang.github.io/files/CV_XuQiang.pdf).
   Supervisor: Prof. [Dai YAO](https://mounttai.github.io/)  
 
 <span class='anchor' id='journal-reviewer'></span>
-# 📋 Journal Reviewer
+# 📋 Ad hoc reviewer for journals
 - Marketing Science 
 - Journal of Marketing Research 
 - International Journal of Research in Marketing 
