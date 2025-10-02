@@ -22,7 +22,7 @@ I am a Ph.D. student at the School of Management, University of Science and Tech
 
 I am an empirical modeler ([Google Scholar Citations](https://scholar.google.com/citations?user=43woAHgAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0000-1249-1300)). My research focuses on quantitative marketing, causal inference, and large language models (LLMs), with a particular interest in digital economics, such as livestream shopping and social media content.  
 
-My work has been published in leading marketing journals, such as *European Journal of Marketing* (AJG/ABS3; ABDC A*; JCR Q1).  
+My work has been published in leading marketing journals, such as *European Journal of Marketing*.  
 
 You can find my CV [here](https://xuqiang.github.io/files/CV_XuQiang.pdf).
 
