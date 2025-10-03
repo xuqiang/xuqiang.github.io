@@ -28,8 +28,8 @@ You can find my CV [here](https://xuqiang.github.io/files/CV_XuQiang.pdf).
 
 <span class='anchor' id='research-interests'></span>
 # 💡 Research Interests
-- **Substantive:** Digital Economics, Digital Platforms, Creator Economy, Livestream Commerce, Social Media Marketing  
-- **Methodological:** Structural Models, Machine Learning, Causal Inference, Econometric Modeling  
+- **Substantive:** Digital Economics, Digital Platforms, Creator Economy
+- **Methodological:** Structural Models, Machine Learning, Causal Inference
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
