@@ -26,7 +26,7 @@ My work has been published in leading marketing journals, such as *European Jour
 
 You can find my CV [here](https://xuqiang.github.io/files/CV_XuQiang.pdf).
 
- 🤝 Collaboration Invitation  
+🤝 **Collaboration Invitation**
 I warmly welcome scholars who are interested in **livestream shopping** to connect with me.  
 Whether you already have a specific research idea or would like to explore new directions together, I am always open to collaboration and meaningful academic exchange.  
 Please feel free to reach out if you share similar research interests or wish to discuss potential projects.
