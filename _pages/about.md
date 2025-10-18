@@ -50,6 +50,7 @@ Please feel free to reach out if you share similar research interests or wish to
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - **Ph.D. Candidate**, Management Science and Engineering, University of Science and Technology of China (USTC), 2023-
+- **M.S.-Ph.D.**, Integrated Program, Business Administration, University of Science and Technology of China (USTC), 2021-2023
 - **B.S.**, Industrial Engineering, Liaoning Technical University, 2013-2017
 
 <span class='anchor' id='academic-employment'></span>
