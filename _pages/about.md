@@ -42,8 +42,6 @@ Please feel free to reach out if you share similar research interests or wish to
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Working Papers
-**Qiang Xu**, Junhong Chu. Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping
-
 **Qiang Xu**. Strategic Sold-Out Disclosure in Livestream Shopping
 
 # 📝 Publications 
