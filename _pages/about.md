@@ -42,7 +42,7 @@ Please feel free to reach out if you share similar research interests or wish to
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Working Papers
-**Qiang Xu (sole-authored)**. 2025. "Strategic Sold-Out Disclosure in Livestream Shopping," under revision.
+**Qiang Xu (sole-authored)**. 2026. "Strategic Sold-Out Disclosure in Livestream Shopping," under revision.
 
 # 📝 Publications 
 **Qiang Xu**, Yilong Liang (2025). Impacts of product presentation duration on livestream efficiency: evidence from the largest Chinese livestream platform. **European Journal of Marketing**, 59(7): 1774-1805. [https://doi.org/10.1108/EJM-11-2023-0863](https://doi.org/10.1108/EJM-11-2023-0863) (**AJG/ABS3**; **ABDC A***; **JCR Q1**; Media coverage [[1]](https://mp.weixin.qq.com/s/NhP_8jsa5BseeM_-qpP9kw), [[2]](https://mp.weixin.qq.com/s/7YSBkoparxdSQB2AKeBgqQ), [[3]](https://mp.weixin.qq.com/s/QRsyqvs8iSof-M8nwEfRxQ))
