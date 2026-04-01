@@ -44,7 +44,7 @@ Please feel free to reach out if you share similar research interests or wish to
 # 📝 Selected Working Papers
 **Qiang Xu**, Junhong Chu (2026). “Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping.” 
 
-**Qiang Xu (sole-authored)**. 2026. "Strategic Sold-Out Disclosure in Livestream Shopping" 
+**Qiang Xu (sole-authored)**. 2026. "Strategic Sold-Out Disclosure in Livestream Shopping," under revision. 
 
 **Qiang Xu (sole-authored)**. 2026. "Facilitate or Backfire? Streamer Happiness and Product Sales Performance in Livestream Shopping," under review.
 
