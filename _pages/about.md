@@ -53,7 +53,8 @@ Please feel free to reach out if you share similar research interests or wish to
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-- **Academic Frontier Award**, 2025 International Conference of Marketing Science and Innovation
+- [**Academic Frontier Award**](https://mp.weixin.qq.com/s/NhP_8jsa5BseeM_-qpP9kw), 2025 International Conference of Marketing Science and Innovation
+- **Best Paper Award (Third Prize)**, The 10th International Conference on Marketing Science and Innovation
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
