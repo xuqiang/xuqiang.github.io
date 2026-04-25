@@ -54,7 +54,7 @@ Please feel free to reach out if you share similar research interests or wish to
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - “Impacts of product presentation duration on livestream efficiency: evidence from the largest Chinese livestream platform,” [**Academic Frontier Award (Second Prize)**](https://mp.weixin.qq.com/s/NhP_8jsa5BseeM_-qpP9kw), 2025 International Conference of Marketing Science and Innovation.
-- “Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping,” **Best Paper Award (Third Prize)**, The 10th International Conference on Marketing Science and Innovation, 2026.
+- “Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping,” [**Best Paper Award (Third Prize)**](https://mp.weixin.qq.com/s/FSWR2RSq7wJXx5cLiZ0X9w), The 10th International Conference on Marketing Science and Innovation, 2026.
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
