@@ -28,7 +28,8 @@ You can find my CV [here](https://xuqiang.github.io/files/CV_XuQiang.pdf).
 
 
 🤝 **Collaboration Invitation**
-I warmly welcome scholars who are interested in **livestream shopping** to connect with me.  
+
+I welcome opportunities to connect with scholars interested in **short-form videos** and **livestream shopping**.  
 
 Whether you already have a specific research idea or would like to explore new directions together, I am always open to collaboration and meaningful academic exchange.  
 
