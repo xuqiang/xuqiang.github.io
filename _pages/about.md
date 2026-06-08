@@ -43,9 +43,9 @@ Please feel free to reach out if you share similar research interests or wish to
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Working Papers
-**Qiang Xu**, Junhong Chu (2026). “Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping,” Job Market Paper (Preparing for Submission). 
+**Qiang Xu**, Junhong Chu (2026). “Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping,” Job Market Paper (Preparing for Submission). Presented at the [2025 Asia-Pacific Forum for Young Marketing Scholars](https://mp.weixin.qq.com/s/_FkfAvSZoGTyOvBuVmjW5A).
 
-**Qiang Xu (sole-authored)**. 2026. "Strategic Sold-Out Disclosure in Livestream Shopping," under review. 
+**Qiang Xu (sole-authored)**. 2026. "Strategic Sold-Out Disclosure in Livestream Shopping," under review at **Journal of Marketing**. 
 
 **Qiang Xu (sole-authored)**. 2026. "Facilitate or Backfire? Streamer Happiness and Product Sales Performance in Livestream Shopping," under review.
 
@@ -57,7 +57,7 @@ Please feel free to reach out if you share similar research interests or wish to
 - “Impacts of product presentation duration on livestream efficiency: evidence from the largest Chinese livestream platform,” [**Academic Frontier Award (Second Prize)**](https://mp.weixin.qq.com/s/NhP_8jsa5BseeM_-qpP9kw), 2025 International Conference of Marketing Science and Innovation.
 - “Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping,” [**Best Paper Award (Third Prize)**](https://mp.weixin.qq.com/s/FSWR2RSq7wJXx5cLiZ0X9w), The 10th International Conference on Marketing Science and Innovation, 2026.
 - "Strategic Sold-Out Disclosure in Livestream Shopping", Winner of the **First Prize Paper Award**, Doctoral Consortium, 25th Wuhan International Conference on E-Business (WHICEB 2026).
-
+  
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
