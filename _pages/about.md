@@ -43,7 +43,7 @@ Please feel free to reach out if you share similar research interests or wish to
 <span class='anchor' id='publications'></span>
 
 # 📝 Selected Working Papers
-Junhong Chu,**Qiang Xu** (2026). “Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping,” Job Market Paper (Preparing for Submission). Presented at the [2025 Asia-Pacific Forum for Young Marketing Scholars](https://mp.weixin.qq.com/s/_FkfAvSZoGTyOvBuVmjW5A).
+Junhong Chu, **Qiang Xu** (2026). “Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestream Shopping,” Job Market Paper (Preparing for Submission). Presented at the [2025 Asia-Pacific Forum for Young Marketing Scholars](https://mp.weixin.qq.com/s/_FkfAvSZoGTyOvBuVmjW5A).
 
 **Qiang Xu (sole-authored)**. 2026. "Strategic Sold-Out Disclosure in Livestream Shopping," under review. 
 
