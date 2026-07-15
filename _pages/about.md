@@ -49,6 +49,8 @@ Information or Emotion? How Firm-Generated User Content Shapes Sales in Livestre
 
 **Qiang Xu (sole-authored)**. 2026. "Facilitate or Backfire? Streamer Happiness and Product Sales Performance in Livestream Shopping," under review.
 
+When Political Remarks Cross Borders: Geopolitical Tensions and Japanese-Brand Sales on TikTok. Work in progress.
+
 # 📝 Publications 
 **Qiang Xu**, Yilong Liang (2025). Impacts of product presentation duration on livestream efficiency: evidence from the largest Chinese livestream platform. **European Journal of Marketing**, 59(7): 1774-1805. [https://doi.org/10.1108/EJM-11-2023-0863](https://doi.org/10.1108/EJM-11-2023-0863) (**AJG/ABS3**; **ABDC A***; **JCR Q1**; [Media coverage](https://mp.weixin.qq.com/s/7YSBkoparxdSQB2AKeBgqQ))
 
