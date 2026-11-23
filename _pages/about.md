@@ -79,7 +79,7 @@ Please feel free to reach out if you share similar research interests or wish to
   Supervisor: Prof. [Dai YAO](https://mounttai.github.io/)  
 
 # 📝 EDITORIAL SERVICE 
-- **Early Career Reviewer Board (ECRB)**, Industrial Management & Data Systems (IMDS) 
+- **Early Career Reviewer Board (ECRB)**, [Industrial Management & Data Systems (IMDS)](https://www.emerald.com/imds/pages/editorial-board#early-career-review-board)
 
 <span class='anchor' id='journal-reviewer'></span>
 # 📋 Ad hoc reviewer for journals
