@@ -62,8 +62,6 @@ Please feel free to reach out if you share similar research interests or wish to
 - “Impacts of product presentation duration on livestream efficiency: evidence from the largest Chinese livestream platform,” [**Academic Frontier Award (Second Prize)**](https://mp.weixin.qq.com/s/NhP_8jsa5BseeM_-qpP9kw), 2025 International Conference of Marketing Science and Innovation.
 
 
-  
-
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - **Ph.D. Candidate**, Management Science and Engineering, University of Science and Technology of China (USTC), 2023-2026
@@ -79,6 +77,9 @@ Please feel free to reach out if you share similar research interests or wish to
 - **Research Assistant**, Department of Management and Marketing, The Hong Kong Polytechnic University  
   *22 April 2024 – 31 December 2024*  
   Supervisor: Prof. [Dai YAO](https://mounttai.github.io/)  
+
+# 📝 EDITORIAL SERVICE 
+- **Early Career Reviewer Board (ECRB)**, Industrial Management & Data Systems (IMDS) 
 
 <span class='anchor' id='journal-reviewer'></span>
 # 📋 Ad hoc reviewer for journals
